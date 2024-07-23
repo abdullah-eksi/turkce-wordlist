@@ -1,4 +1,4 @@
-# Bu proje; e-posta adresi, isim, telefon benzeri herhangi bir kişisel veri içermemektedir. Parolalar sadece akademik amaçlarla listelenmektedir. Parolaların gerçek kişilerle ilişkilendirilmesi mümkün değildir.
+Not: Bu proje; e-posta adresi, isim, telefon benzeri herhangi bir kişisel veri içermemektedir. Parolalar sadece akademik amaçlarla listelenmektedir. Parolaların gerçek kişilerle ilişkilendirilmesi mümkün değildir.
 
 ## Türkçe Wordlist 
 
